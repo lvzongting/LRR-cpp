@@ -47,3 +47,9 @@ Result
     -3.00606   -2.73336   -2.46397   -2.19828
     -0.10842 -0.0358526  0.0324873  0.0961225
      2.78922    2.66165    2.52895    2.39052
+
+
+TODO
+=============
+Armadillo is a C++ linear algebra library (matrix maths) aiming towards a good balance between speed and ease of use. The syntax is deliberately similar to Matlab. 
+use this lib maybe faster -- armadillo.
